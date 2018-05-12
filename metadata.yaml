@@ -1,0 +1,36 @@
+_repo: Russia--Its-People-and-Its-Literature_41495
+_version: 0.1.0
+alternative_title: La revolución y la novela en Rusia. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Bazán, Emilia Pardo, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    - Pardo Bazan, Emilia, condesa de
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: The evolution of Russia. -- Russian nihilism and its literature. -- Rise
+  of the Russian novel. -- Modern Russian realism.
+gutenberg_issued: '2012-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Russia -- Civilization'
+- !lcsh 'Russian literature -- History and criticism'
+title: 'Russia: Its People and Its Literature'
+url: http://www.gutenberg.org/ebooks/41495
