@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
 description: The evolution of Russia. -- Russian nihilism and its literature. -- Rise
   of the Russian novel. -- Modern Russian realism.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41495#Russia--Its-People-and-Its-Literature
 gutenberg_issued: '2012-11-26'
 gutenberg_type: Text
 identifiers:
